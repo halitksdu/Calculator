@@ -25,7 +25,9 @@ When we run the code, it asks us to enter the number of the operation we want to
 14. Cotangent
 
 
-Then it asks the appropriate question for the selected operation.(Some operations require two numbers, while others may require degrees or base.)
+Then it asks the appropriate question for the selected operation.(Some operations require two numbers, while others may require degrees or base.) I added the code below:
+
+![]([https://github.com/halitksdu/Calculator/blob/main/read/calculator.png](https://github.com/halitksdu/Calculator/blob/main/read/write.png)https://github.com/halitksdu/Calculator/blob/main/read/write.png)
 
 
 
