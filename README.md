@@ -66,4 +66,4 @@ I created the values using the sine line.
 #### Code:
 ![](https://github.com/halitksdu/Calculator/blob/main/read/tri%20code.png)
 
-
+And there is some simple code too.
